@@ -2,6 +2,6 @@ class Test
 {
 	public static void main(String args[])
 	{
-		System.out.println("Test Commit against DEF10");
+		System.out.println("Test Commit against DEF11");
 	}
 }
